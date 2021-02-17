@@ -1,0 +1,15 @@
+current directory: /Users/hamabehayato/Desktop/Rails_practice/recipegram4/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+/Users/hamabehayato/.rbenv/versions/2.5.8/bin/ruby -I /Users/hamabehayato/.rbenv/versions/2.5.8/lib/ruby/site_ruby/2.5.0 -r ./siteconf20210215-47034-1t6l1sf.rb extconf.rb
+creating Makefile
+
+current directory: /Users/hamabehayato/Desktop/Rails_practice/recipegram4/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make DESTDIR\= clean
+
+current directory: /Users/hamabehayato/Desktop/Rails_practice/recipegram4/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make DESTDIR\=
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/hamabehayato/Desktop/Rails_practice/recipegram4/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20210215-47034-voih79
